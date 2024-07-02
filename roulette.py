@@ -1,6 +1,5 @@
 # This program will ask the user to enter a pocket number and
 #display whether the pocket is green, red, or black.
-# Jazmin Even Dorra
 
 def main():
     print ("Roulette Wheel Colors App ...")
